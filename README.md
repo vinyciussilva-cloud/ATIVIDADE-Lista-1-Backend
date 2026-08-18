@@ -1,40 +1,43 @@
 # 📝 Atividade 1 - A Nossa Missão: Lista 1 - Backend
 
-**Aluno:** Vinycius Lopes Monteiro da Silva 
-**Disciplina:** Backend  
-**Data:** 2026-08-18
+<div align="center">
+
+![Badge PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Badge Atividade](https://img.shields.io/badge/Status-Completo-brightgreen?style=for-the-badge)
+![Badge Data](https://img.shields.io/badge/2026--08--18-blue?style=for-the-badge)
+
+**Resolução de 5 desafios práticos de Backend**
+
+[📥 Sobre](#-sobre) • [🎯 Desafios](#-desafios-implementados) • [💻 Como Usar](#-como-usar) • [📂 Estrutura](#-estrutura-do-projeto) • [✅ Requisitos](#-requisitos-atendidos)
+
+</div>
+
+---
+
+## 🎓 Informações da Atividade
+
+- **Disciplina:** Backend
+- **Professor:** Denis dos Anjos Geres
+- **Atividade:** Lista 1 - Backend
+- **Pontuação:** 2 pontos
+- **Linguagem:** PHP
+- **Status:** ✅ Completo
+
+---
 
 ## 📋 Sobre
 
-Este repositório contém a resolução dos 5 desafios proposto na **Lista 1 - Backend**, como parte da atividade prática da disciplina.
+Este repositório contém a resolução completa dos **5 desafios práticos** propostos na **Lista 1 - Backend**. Cada desafio implementa conceitos fundamentais de programação backend, incluindo:
+
+- Operações matemáticas e lógica condicional
+- Estruturas de controle e repetição
+- Manipulação de arrays
+- Desenvolvimento de funções
+- Operadores lógicos
+
+---
 
 ## 🎯 Desafios Implementados
 
 ### 1️⃣ Cálculo de Preço com Desconto
-- **Objetivo:** Calcular o preço final de um produto com 10% de desconto para compras a partir de R$ 200,00
-- **Arquivo:** `desafio1.php`
-
-### 2️⃣ Verificação de Aprovação
-- **Objetivo:** Sistema que verifica aprovação baseado em média (≥ 6,0) e limite de faltas (≤ 15)
-- **Operador utilizado:** `&&` (AND lógico)
-- **Arquivo:** `desafio2.php`
-
-### 3️⃣ Tabuada
-- **Objetivo:** Gerar tabuada (de 1 a 10) de um número específico
-- **Estrutura utilizada:** `for`
-- **Arquivo:** `desafio3.php`
-
-### 4️⃣ Processamento de Vetor
-- **Objetivo:** Processar array com 5 notas para calcular média, maior e menor nota
-- **Arquivo:** `desafio4.php`
-
-### 5️⃣ Cálculo e Classificação de IMC
-- **Objetivo:** Função que calcula IMC e o classifica
-- **Classificações:** Abaixo do peso | Peso normal | Sobrepeso | Obesidade
-- **Arquivo:** `desafio5.php`
-
-## 🛠️ Como Usar
-
-1. Clone o repositório:
-```bash
-git clone [URL_DO_REPOSITORIO]
+**Arquivo:** `desafio1.php`
