@@ -1,6 +1,6 @@
 <?php
 // programa php que lê o preço de um produto e a quantidade comprada.
-$preco = 84.99;
+$preco = 67,67;
 $quantidade = 4;
 $valor_total = $preco * $quantidade;
 
